@@ -1,0 +1,10 @@
+{
+    "name": "swissup/tippyjs",
+    "description": "Highly customizable vanilla JS tooltip/popover library for Magento 2",
+    "type": "metapackage",
+    "version": "1.1.0",
+    "license": "MIT",
+    "require": {
+        "swissup/module-tippyjs": "^1.1.0"
+    }
+}
